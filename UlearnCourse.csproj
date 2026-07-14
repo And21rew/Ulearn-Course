@@ -43,11 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FirstIntroductionToCSharp\BitcoinsToTheMasses.cs" />
+    <Compile Include="FirstIntroductionToCSharp\ConvertingStringToNumber.cs" />
+    <Compile Include="FirstIntroductionToCSharp\InvalidDataType.cs" />
+    <Compile Include="FirstIntroductionToCSharp\KindEmployer.cs" />
+    <Compile Include="FirstIntroductionToCSharp\MethodsAreBeingSought.cs" />
+    <Compile Include="FirstIntroductionToCSharp\TheFirstStep.cs" />
+    <Compile Include="FirstIntroductionToCSharp\TheMainQuestionOfTheUniverse.cs" />
+    <Compile Include="FirstIntroductionToCSharp\TypeConversionErrors.cs" />
+    <Compile Include="FirstIntroductionToCSharp\UsingVar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
