@@ -3,44 +3,36 @@
   "WorkspaceRootPath": "V:\\GitHub\\Ulearn-Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\firstintroductiontocsharp\\methodsarebeingsought.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:firstintroductiontocsharp\\methodsarebeingsought.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\1_mistakes\\refactoringtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:1_mistakes\\refactoringtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\firstintroductiontocsharp\\themainquestionoftheuniverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:firstintroductiontocsharp\\themainquestionoftheuniverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\1_mistakes\\procentstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:1_mistakes\\procentstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\firstintroductiontocsharp\\kindemployer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:firstintroductiontocsharp\\kindemployer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\1_mistakes\\angrybirdstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:1_mistakes\\angrybirdstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\firstintroductiontocsharp\\usingvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:firstintroductiontocsharp\\usingvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\1_mistakes\\billiardstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:1_mistakes\\billiardstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\1_mistakes\\dosomethingdontknowwhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:1_mistakes\\dosomethingdontknowwhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\1_mistakes\\minimumfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:1_mistakes\\minimumfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\1_mistakes\\ochepyatki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:1_mistakes\\ochepyatki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\firstintroductiontocsharp\\thefirststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:firstintroductiontocsharp\\thefirststep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\firstintroductiontocsharp\\invaliddatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:firstintroductiontocsharp\\invaliddatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\firstintroductiontocsharp\\typeconversionerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:firstintroductiontocsharp\\typeconversionerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\firstintroductiontocsharp\\bitcoinstothemasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:firstintroductiontocsharp\\bitcoinstothemasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\firstintroductiontocsharp\\convertingstringtonumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:firstintroductiontocsharp\\convertingstringtonumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,129 +47,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MethodsAreBeingSought.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\MethodsAreBeingSought.cs",
-              "RelativeDocumentMoniker": "FirstIntroductionToCSharp\\MethodsAreBeingSought.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\MethodsAreBeingSought.cs",
-              "RelativeToolTip": "FirstIntroductionToCSharp\\MethodsAreBeingSought.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Title": "RefactoringTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\1_Mistakes\\RefactoringTask.cs",
+              "RelativeDocumentMoniker": "1_Mistakes\\RefactoringTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\1_Mistakes\\RefactoringTask.cs",
+              "RelativeToolTip": "1_Mistakes\\RefactoringTask.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwF4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:23:05.063Z",
+              "WhenOpened": "2026-07-15T07:33:01.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TheMainQuestionOfTheUniverse.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\TheMainQuestionOfTheUniverse.cs",
-              "RelativeDocumentMoniker": "FirstIntroductionToCSharp\\TheMainQuestionOfTheUniverse.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\TheMainQuestionOfTheUniverse.cs",
-              "RelativeToolTip": "FirstIntroductionToCSharp\\TheMainQuestionOfTheUniverse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Title": "ProcentsTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\1_Mistakes\\ProcentsTask.cs",
+              "RelativeDocumentMoniker": "1_Mistakes\\ProcentsTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\1_Mistakes\\ProcentsTask.cs",
+              "RelativeToolTip": "1_Mistakes\\ProcentsTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:22:15.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "KindEmployer.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\KindEmployer.cs",
-              "RelativeDocumentMoniker": "FirstIntroductionToCSharp\\KindEmployer.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\KindEmployer.cs",
-              "RelativeToolTip": "FirstIntroductionToCSharp\\KindEmployer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:21:11.639Z",
+              "WhenOpened": "2026-07-15T07:31:36.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UsingVar.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\UsingVar.cs",
-              "RelativeDocumentMoniker": "FirstIntroductionToCSharp\\UsingVar.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\UsingVar.cs",
-              "RelativeToolTip": "FirstIntroductionToCSharp\\UsingVar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Title": "BilliardsTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\1_Mistakes\\BilliardsTask.cs",
+              "RelativeDocumentMoniker": "1_Mistakes\\BilliardsTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\1_Mistakes\\BilliardsTask.cs",
+              "RelativeToolTip": "1_Mistakes\\BilliardsTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:19:52.228Z",
+              "WhenOpened": "2026-07-15T07:30:00.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ConvertingStringToNumber.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\ConvertingStringToNumber.cs",
-              "RelativeDocumentMoniker": "FirstIntroductionToCSharp\\ConvertingStringToNumber.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\ConvertingStringToNumber.cs",
-              "RelativeToolTip": "FirstIntroductionToCSharp\\ConvertingStringToNumber.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:18:45.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BitcoinsToTheMasses.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\BitcoinsToTheMasses.cs",
-              "RelativeDocumentMoniker": "FirstIntroductionToCSharp\\BitcoinsToTheMasses.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\BitcoinsToTheMasses.cs",
-              "RelativeToolTip": "FirstIntroductionToCSharp\\BitcoinsToTheMasses.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:17:47.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TypeConversionErrors.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\TypeConversionErrors.cs",
-              "RelativeDocumentMoniker": "FirstIntroductionToCSharp\\TypeConversionErrors.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\TypeConversionErrors.cs",
-              "RelativeToolTip": "FirstIntroductionToCSharp\\TypeConversionErrors.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:15:31.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InvalidDataType.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\InvalidDataType.cs",
-              "RelativeDocumentMoniker": "FirstIntroductionToCSharp\\InvalidDataType.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\InvalidDataType.cs",
-              "RelativeToolTip": "FirstIntroductionToCSharp\\InvalidDataType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:09:42.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TheFirstStep.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\TheFirstStep.cs",
-              "RelativeDocumentMoniker": "FirstIntroductionToCSharp\\TheFirstStep.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FirstIntroductionToCSharp\\TheFirstStep.cs",
-              "RelativeToolTip": "FirstIntroductionToCSharp\\TheFirstStep.cs",
+              "DocumentIndex": 2,
+              "Title": "AngryBirdsTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\1_Mistakes\\AngryBirdsTask.cs",
+              "RelativeDocumentMoniker": "1_Mistakes\\AngryBirdsTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\1_Mistakes\\AngryBirdsTask.cs",
+              "RelativeToolTip": "1_Mistakes\\AngryBirdsTask.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T12:04:35.309Z",
+              "WhenOpened": "2026-07-15T07:26:51.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "DoSomethingDontKnowWhat.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\1_Mistakes\\DoSomethingDontKnowWhat.cs",
+              "RelativeDocumentMoniker": "1_Mistakes\\DoSomethingDontKnowWhat.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\1_Mistakes\\DoSomethingDontKnowWhat.cs",
+              "RelativeToolTip": "1_Mistakes\\DoSomethingDontKnowWhat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T07:21:03.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MinimumFunction.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\1_Mistakes\\MinimumFunction.cs",
+              "RelativeDocumentMoniker": "1_Mistakes\\MinimumFunction.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\1_Mistakes\\MinimumFunction.cs",
+              "RelativeToolTip": "1_Mistakes\\MinimumFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T07:19:31.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ochepyatki.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\1_Mistakes\\Ochepyatki.cs",
+              "RelativeDocumentMoniker": "1_Mistakes\\Ochepyatki.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\1_Mistakes\\Ochepyatki.cs",
+              "RelativeToolTip": "1_Mistakes\\Ochepyatki.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T07:18:28.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "V:\\GitHub\\Ulearn-Course\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T11:43:39.43Z",
               "EditorCaption": ""
