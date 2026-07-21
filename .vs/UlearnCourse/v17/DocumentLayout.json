@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "V:\\GitHub\\Ulearn-Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|v:\\github\\ulearn-course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}|UlearnCourse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\4_arrays\\heatmaptask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:4_arrays\\heatmaptask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\4_arrays\\histogramtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:4_arrays\\histogramtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\4_arrays\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:4_arrays\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\4_arrays\\raisearraytopower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:4_arrays\\raisearraytopower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\4_arrays\\nullornotnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:4_arrays\\nullornotnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\4_arrays\\tarotcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:4_arrays\\tarotcards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\4_arrays\\searchingarrayinarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:4_arrays\\searchingarrayinarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\4_arrays\\counting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:4_arrays\\counting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\4_arrays\\maximumindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:4_arrays\\maximumindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\4_arrays\\evenarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:4_arrays\\evenarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +59,142 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HeatmapTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\HeatmapTask.cs",
+              "RelativeDocumentMoniker": "4_Arrays\\HeatmapTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\HeatmapTask.cs",
+              "RelativeToolTip": "4_Arrays\\HeatmapTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:53:10.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistogramTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\HistogramTask.cs",
+              "RelativeDocumentMoniker": "4_Arrays\\HistogramTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\HistogramTask.cs",
+              "RelativeToolTip": "4_Arrays\\HistogramTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:52:34.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicTacToe.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\TicTacToe.cs",
+              "RelativeDocumentMoniker": "4_Arrays\\TicTacToe.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\TicTacToe.cs",
+              "RelativeToolTip": "4_Arrays\\TicTacToe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:51:39.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RaiseArrayToPower.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\RaiseArrayToPower.cs",
+              "RelativeDocumentMoniker": "4_Arrays\\RaiseArrayToPower.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\RaiseArrayToPower.cs",
+              "RelativeToolTip": "4_Arrays\\RaiseArrayToPower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:51:13.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NullOrNotNull.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\NullOrNotNull.cs",
+              "RelativeDocumentMoniker": "4_Arrays\\NullOrNotNull.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\NullOrNotNull.cs",
+              "RelativeToolTip": "4_Arrays\\NullOrNotNull.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:50:45.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TarotCards.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\TarotCards.cs",
+              "RelativeDocumentMoniker": "4_Arrays\\TarotCards.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\TarotCards.cs",
+              "RelativeToolTip": "4_Arrays\\TarotCards.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:50:17.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchingArrayInArray.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\SearchingArrayInArray.cs",
+              "RelativeDocumentMoniker": "4_Arrays\\SearchingArrayInArray.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\SearchingArrayInArray.cs",
+              "RelativeToolTip": "4_Arrays\\SearchingArrayInArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:49:57.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Counting.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\Counting.cs",
+              "RelativeDocumentMoniker": "4_Arrays\\Counting.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\Counting.cs",
+              "RelativeToolTip": "4_Arrays\\Counting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:49:28.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MaximumIndex.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\MaximumIndex.cs",
+              "RelativeDocumentMoniker": "4_Arrays\\MaximumIndex.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\MaximumIndex.cs",
+              "RelativeToolTip": "4_Arrays\\MaximumIndex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:48:53.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EvenArray.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\EvenArray.cs",
+              "RelativeDocumentMoniker": "4_Arrays\\EvenArray.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\4_Arrays\\EvenArray.cs",
+              "RelativeToolTip": "4_Arrays\\EvenArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:48:24.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "V:\\GitHub\\Ulearn-Course\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T11:43:39.43Z",
               "EditorCaption": ""

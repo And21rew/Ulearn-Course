@@ -1,82 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <Import Project="packages\Avalonia.12.1.0\build\Avalonia.props" Condition="Exists('packages\Avalonia.12.1.0\build\Avalonia.props')" />
-  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
   <PropertyGroup>
-    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
-    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0CE62C4C-5E7D-415A-8E95-2606D690A4EB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>UlearnCourse</RootNamespace>
-    <AssemblyName>UlearnCourse</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
-    <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Deterministic>true</Deterministic>
-    <NuGetPackageImportStamp>
-    </NuGetPackageImportStamp>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
   </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
-    <DebugSymbols>true</DebugSymbols>
-    <DebugType>full</DebugType>
-    <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
-    <DefineConstants>DEBUG;TRACE</DefineConstants>
-    <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
-  </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
-    <DebugType>pdbonly</DebugType>
-    <Optimize>true</Optimize>
-    <OutputPath>bin\Release\</OutputPath>
-    <DefineConstants>TRACE</DefineConstants>
-    <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
-  </PropertyGroup>
-  <ItemGroup>
-    <Reference Include="System" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Net.Http" />
-    <Reference Include="System.Xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="0_FirstIntroductionToCSharp\BitcoinsToTheMasses.cs" />
-    <Compile Include="0_FirstIntroductionToCSharp\ConvertingStringToNumber.cs" />
-    <Compile Include="0_FirstIntroductionToCSharp\InvalidDataType.cs" />
-    <Compile Include="0_FirstIntroductionToCSharp\KindEmployer.cs" />
-    <Compile Include="0_FirstIntroductionToCSharp\MethodsAreBeingSought.cs" />
-    <Compile Include="0_FirstIntroductionToCSharp\TheFirstStep.cs" />
-    <Compile Include="0_FirstIntroductionToCSharp\TheMainQuestionOfTheUniverse.cs" />
-    <Compile Include="0_FirstIntroductionToCSharp\TypeConversionErrors.cs" />
-    <Compile Include="0_FirstIntroductionToCSharp\UsingVar.cs" />
-    <Compile Include="1_Mistakes\AngryBirdsTask.cs" />
-    <Compile Include="1_Mistakes\BilliardsTask.cs" />
-    <Compile Include="1_Mistakes\DoSomethingDontKnowWhat.cs" />
-    <Compile Include="1_Mistakes\MinimumFunction.cs" />
-    <Compile Include="1_Mistakes\Ochepyatki.cs" />
-    <Compile Include="1_Mistakes\ProcentsTask.cs" />
-    <Compile Include="1_Mistakes\RefactoringTask.cs" />
-    <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-    <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup />
-  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
-    <PropertyGroup>
-      <ErrorText>Данный проект ссылается на пакеты NuGet, отсутствующие на этом компьютере. Используйте восстановление пакетов NuGet, чтобы скачать их.  Дополнительную информацию см. по адресу: http://go.microsoft.com/fwlink/?LinkID=322105. Отсутствует следующий файл: {0}.</ErrorText>
-    </PropertyGroup>
-    <Error Condition="!Exists('packages\Avalonia.12.1.0\build\Avalonia.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Avalonia.12.1.0\build\Avalonia.props'))" />
-    <Error Condition="!Exists('packages\Avalonia.12.1.0\build\Avalonia.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Avalonia.12.1.0\build\Avalonia.targets'))" />
-  </Target>
-  <Import Project="packages\Avalonia.12.1.0\build\Avalonia.targets" Condition="Exists('packages\Avalonia.12.1.0\build\Avalonia.targets')" />
+
 </Project>
