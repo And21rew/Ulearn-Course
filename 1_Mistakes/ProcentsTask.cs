@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace UlearnCourse.Mistakes
+﻿namespace UlearnCourse.Mistakes
 {
     internal class ProcentsTask
     {

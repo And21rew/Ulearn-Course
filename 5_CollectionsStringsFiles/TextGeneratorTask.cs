@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-
-namespace UlearnCourse.CollectionsStringsFiles
+﻿namespace UlearnCourse.CollectionsStringsFiles
 {
     static class TextGeneratorTask
     {

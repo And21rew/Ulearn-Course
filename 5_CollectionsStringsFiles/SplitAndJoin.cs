@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace UlearnCourse.CollectionsStringsFiles
+﻿namespace UlearnCourse.CollectionsStringsFiles
 {
     internal class SplitAndJoin
     {

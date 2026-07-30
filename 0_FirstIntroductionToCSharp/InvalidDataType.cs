@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace UlearnCourse.FirstIntroductionToCSharp
+﻿namespace UlearnCourse.FirstIntroductionToCSharp
 {
     internal class InvalidDataType
     {

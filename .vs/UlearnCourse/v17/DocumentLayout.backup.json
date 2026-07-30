@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "V:\\GitHub\\Ulearn-Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\7_complexityofalgorithms\\sobelfiltertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:7_complexityofalgorithms\\sobelfiltertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\8_recursivealgorithms\\pathfindertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:8_recursivealgorithms\\pathfindertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\7_complexityofalgorithms\\thresholdfiltertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:7_complexityofalgorithms\\thresholdfiltertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\8_recursivealgorithms\\casealternatortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:8_recursivealgorithms\\casealternatortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\7_complexityofalgorithms\\medianfiltertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:7_complexityofalgorithms\\medianfiltertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\8_recursivealgorithms\\abandonedcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:8_recursivealgorithms\\abandonedcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\7_complexityofalgorithms\\grayscaletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:7_complexityofalgorithms\\grayscaletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\8_recursivealgorithms\\bruteforcepasswords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:8_recursivealgorithms\\bruteforcepasswords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\8_recursivealgorithms\\fixrecursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:8_recursivealgorithms\\fixrecursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,54 +35,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SobelFilterTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\7_ComplexityOfAlgorithms\\SobelFilterTask.cs",
-              "RelativeDocumentMoniker": "7_ComplexityOfAlgorithms\\SobelFilterTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\7_ComplexityOfAlgorithms\\SobelFilterTask.cs",
-              "RelativeToolTip": "7_ComplexityOfAlgorithms\\SobelFilterTask.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwDcAAAAFAAAAAAAAAA==",
+              "Title": "PathFinderTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\8_RecursiveAlgorithms\\PathFinderTask.cs",
+              "RelativeDocumentMoniker": "8_RecursiveAlgorithms\\PathFinderTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\8_RecursiveAlgorithms\\PathFinderTask.cs",
+              "RelativeToolTip": "8_RecursiveAlgorithms\\PathFinderTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T09:46:35.264Z",
+              "WhenOpened": "2026-07-30T11:53:42.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ThresholdFilterTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\7_ComplexityOfAlgorithms\\ThresholdFilterTask.cs",
-              "RelativeDocumentMoniker": "7_ComplexityOfAlgorithms\\ThresholdFilterTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\7_ComplexityOfAlgorithms\\ThresholdFilterTask.cs",
-              "RelativeToolTip": "7_ComplexityOfAlgorithms\\ThresholdFilterTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Title": "CaseAlternatorTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\8_RecursiveAlgorithms\\CaseAlternatorTask.cs",
+              "RelativeDocumentMoniker": "8_RecursiveAlgorithms\\CaseAlternatorTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\8_RecursiveAlgorithms\\CaseAlternatorTask.cs",
+              "RelativeToolTip": "8_RecursiveAlgorithms\\CaseAlternatorTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T09:46:28.64Z",
+              "WhenOpened": "2026-07-30T11:53:17.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MedianFilterTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\7_ComplexityOfAlgorithms\\MedianFilterTask.cs",
-              "RelativeDocumentMoniker": "7_ComplexityOfAlgorithms\\MedianFilterTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\7_ComplexityOfAlgorithms\\MedianFilterTask.cs",
-              "RelativeToolTip": "7_ComplexityOfAlgorithms\\MedianFilterTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "Title": "AbandonedCode.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\8_RecursiveAlgorithms\\AbandonedCode.cs",
+              "RelativeDocumentMoniker": "8_RecursiveAlgorithms\\AbandonedCode.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\8_RecursiveAlgorithms\\AbandonedCode.cs",
+              "RelativeToolTip": "8_RecursiveAlgorithms\\AbandonedCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T09:46:19.242Z",
+              "WhenOpened": "2026-07-30T09:05:44.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GrayscaleTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\7_ComplexityOfAlgorithms\\GrayscaleTask.cs",
-              "RelativeDocumentMoniker": "7_ComplexityOfAlgorithms\\GrayscaleTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\7_ComplexityOfAlgorithms\\GrayscaleTask.cs",
-              "RelativeToolTip": "7_ComplexityOfAlgorithms\\GrayscaleTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Title": "BruteForcePasswords.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\8_RecursiveAlgorithms\\BruteForcePasswords.cs",
+              "RelativeDocumentMoniker": "8_RecursiveAlgorithms\\BruteForcePasswords.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\8_RecursiveAlgorithms\\BruteForcePasswords.cs",
+              "RelativeToolTip": "8_RecursiveAlgorithms\\BruteForcePasswords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T09:46:11.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-29T10:33:22.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FixRecursion.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\8_RecursiveAlgorithms\\FixRecursion.cs",
+              "RelativeDocumentMoniker": "8_RecursiveAlgorithms\\FixRecursion.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\8_RecursiveAlgorithms\\FixRecursion.cs",
+              "RelativeToolTip": "8_RecursiveAlgorithms\\FixRecursion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T10:30:16.349Z"
             }
           ]
         }

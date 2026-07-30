@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace UlearnCourse.CollectionsStringsFiles
+﻿namespace UlearnCourse.CollectionsStringsFiles
 {
     static class FrequencyAnalysisTask
     {

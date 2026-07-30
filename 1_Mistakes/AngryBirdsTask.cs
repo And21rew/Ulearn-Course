@@ -1,5 +1,3 @@
-using System;
-
 namespace UlearnCourse.Mistakes
 {
     public static class AngryBirdsTask
