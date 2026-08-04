@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="9_SearchAndSort\" />
+    <Folder Include="10_Practicum\" />
   </ItemGroup>
 
 </Project>
