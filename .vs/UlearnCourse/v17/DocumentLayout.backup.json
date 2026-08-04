@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "V:\\GitHub\\Ulearn-Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\9_searchandsort\\autocompletetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:9_searchandsort\\autocompletetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\10_practicum\\manipulatortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:10_practicum\\manipulatortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\9_searchandsort\\rightbordertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:9_searchandsort\\rightbordertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\10_practicum\\triangletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:10_practicum\\triangletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\9_searchandsort\\leftbordertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:9_searchandsort\\leftbordertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\10_practicum\\visualizertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:10_practicum\\visualizertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\9_searchandsort\\sortingtherange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:9_searchandsort\\sortingtherange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\9_searchandsort\\recursivebinarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:9_searchandsort\\recursivebinarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\10_practicum\\anglestocoordinatestask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:10_practicum\\anglestocoordinatestask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AutocompleteTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\9_SearchAndSort\\AutocompleteTask.cs",
-              "RelativeDocumentMoniker": "9_SearchAndSort\\AutocompleteTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\9_SearchAndSort\\AutocompleteTask.cs",
-              "RelativeToolTip": "9_SearchAndSort\\AutocompleteTask.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAEAAAAdAAAAAAAAAA==",
+              "Title": "ManipulatorTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\ManipulatorTask.cs",
+              "RelativeDocumentMoniker": "10_Practicum\\ManipulatorTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\ManipulatorTask.cs",
+              "RelativeToolTip": "10_Practicum\\ManipulatorTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T12:46:55.946Z",
+              "WhenOpened": "2026-08-04T09:46:56.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RightBorderTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\9_SearchAndSort\\RightBorderTask.cs",
-              "RelativeDocumentMoniker": "9_SearchAndSort\\RightBorderTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\9_SearchAndSort\\RightBorderTask.cs",
-              "RelativeToolTip": "9_SearchAndSort\\RightBorderTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Title": "TriangleTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\TriangleTask.cs",
+              "RelativeDocumentMoniker": "10_Practicum\\TriangleTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\TriangleTask.cs",
+              "RelativeToolTip": "10_Practicum\\TriangleTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T12:46:28.173Z",
+              "WhenOpened": "2026-08-04T09:46:32.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LeftBorderTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\9_SearchAndSort\\LeftBorderTask.cs",
-              "RelativeDocumentMoniker": "9_SearchAndSort\\LeftBorderTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\9_SearchAndSort\\LeftBorderTask.cs",
-              "RelativeToolTip": "9_SearchAndSort\\LeftBorderTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Title": "VisualizerTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\VisualizerTask.cs",
+              "RelativeDocumentMoniker": "10_Practicum\\VisualizerTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\VisualizerTask.cs",
+              "RelativeToolTip": "10_Practicum\\VisualizerTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T12:45:58.124Z",
+              "WhenOpened": "2026-08-04T09:45:52.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SortingTheRange.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\9_SearchAndSort\\SortingTheRange.cs",
-              "RelativeDocumentMoniker": "9_SearchAndSort\\SortingTheRange.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\9_SearchAndSort\\SortingTheRange.cs",
-              "RelativeToolTip": "9_SearchAndSort\\SortingTheRange.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Title": "AnglesToCoordinatesTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\AnglesToCoordinatesTask.cs",
+              "RelativeDocumentMoniker": "10_Practicum\\AnglesToCoordinatesTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\AnglesToCoordinatesTask.cs",
+              "RelativeToolTip": "10_Practicum\\AnglesToCoordinatesTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T12:28:46.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RecursiveBinarySearch.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\9_SearchAndSort\\RecursiveBinarySearch.cs",
-              "RelativeDocumentMoniker": "9_SearchAndSort\\RecursiveBinarySearch.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\9_SearchAndSort\\RecursiveBinarySearch.cs",
-              "RelativeToolTip": "9_SearchAndSort\\RecursiveBinarySearch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T12:21:29.335Z",
+              "WhenOpened": "2026-08-04T09:45:04.494Z",
               "EditorCaption": ""
             }
           ]
