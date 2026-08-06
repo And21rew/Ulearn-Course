@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "V:\\GitHub\\Ulearn-Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\10_practicum\\manipulatortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:10_practicum\\manipulatortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\11_basicsofoop\\shadesofgraytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:11_basicsofoop\\shadesofgraytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\10_practicum\\triangletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:10_practicum\\triangletask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\11_basicsofoop\\nonstaticmethodstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:11_basicsofoop\\nonstaticmethodstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\10_practicum\\visualizertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:10_practicum\\visualizertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\11_basicsofoop\\segmenttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:11_basicsofoop\\segmenttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\10_practicum\\anglestocoordinatestask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:10_practicum\\anglestocoordinatestask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\11_basicsofoop\\vectortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:11_basicsofoop\\vectortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\11_basicsofoop\\refactoringofstaticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:11_basicsofoop\\refactoringofstaticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\11_basicsofoop\\listofdirectories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:11_basicsofoop\\listofdirectories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\11_basicsofoop\\creatingextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:11_basicsofoop\\creatingextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\11_basicsofoop\\abbreviatedsyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:11_basicsofoop\\abbreviatedsyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\11_basicsofoop\\creatingclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:11_basicsofoop\\creatingclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,54 +51,115 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ManipulatorTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\ManipulatorTask.cs",
-              "RelativeDocumentMoniker": "10_Practicum\\ManipulatorTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\ManipulatorTask.cs",
-              "RelativeToolTip": "10_Practicum\\ManipulatorTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Title": "ShadesOfGrayTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\ShadesOfGrayTask.cs",
+              "RelativeDocumentMoniker": "11_BasicsOfOOP\\ShadesOfGrayTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\ShadesOfGrayTask.cs",
+              "RelativeToolTip": "11_BasicsOfOOP\\ShadesOfGrayTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T09:46:56.67Z",
+              "WhenOpened": "2026-08-06T06:29:01.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TriangleTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\TriangleTask.cs",
-              "RelativeDocumentMoniker": "10_Practicum\\TriangleTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\TriangleTask.cs",
-              "RelativeToolTip": "10_Practicum\\TriangleTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Title": "NonStaticMethodsTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\NonStaticMethodsTask.cs",
+              "RelativeDocumentMoniker": "11_BasicsOfOOP\\NonStaticMethodsTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\NonStaticMethodsTask.cs",
+              "RelativeToolTip": "11_BasicsOfOOP\\NonStaticMethodsTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T09:46:32.886Z",
+              "WhenOpened": "2026-08-06T06:28:21.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "VisualizerTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\VisualizerTask.cs",
-              "RelativeDocumentMoniker": "10_Practicum\\VisualizerTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\VisualizerTask.cs",
-              "RelativeToolTip": "10_Practicum\\VisualizerTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Title": "SegmentTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\SegmentTask.cs",
+              "RelativeDocumentMoniker": "11_BasicsOfOOP\\SegmentTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\SegmentTask.cs",
+              "RelativeToolTip": "11_BasicsOfOOP\\SegmentTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T09:45:52.122Z",
+              "WhenOpened": "2026-08-06T06:27:06.109Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AnglesToCoordinatesTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\AnglesToCoordinatesTask.cs",
-              "RelativeDocumentMoniker": "10_Practicum\\AnglesToCoordinatesTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\10_Practicum\\AnglesToCoordinatesTask.cs",
-              "RelativeToolTip": "10_Practicum\\AnglesToCoordinatesTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Title": "VectorTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\VectorTask.cs",
+              "RelativeDocumentMoniker": "11_BasicsOfOOP\\VectorTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\VectorTask.cs",
+              "RelativeToolTip": "11_BasicsOfOOP\\VectorTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T09:45:04.494Z",
+              "WhenOpened": "2026-08-06T06:26:13.589Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefactoringOfStaticClass.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\RefactoringOfStaticClass.cs",
+              "RelativeDocumentMoniker": "11_BasicsOfOOP\\RefactoringOfStaticClass.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\RefactoringOfStaticClass.cs",
+              "RelativeToolTip": "11_BasicsOfOOP\\RefactoringOfStaticClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T04:48:39.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListOfDirectories.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\ListOfDirectories.cs",
+              "RelativeDocumentMoniker": "11_BasicsOfOOP\\ListOfDirectories.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\ListOfDirectories.cs",
+              "RelativeToolTip": "11_BasicsOfOOP\\ListOfDirectories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T04:57:39.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreatingExtensionMethods.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\CreatingExtensionMethods.cs",
+              "RelativeDocumentMoniker": "11_BasicsOfOOP\\CreatingExtensionMethods.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\CreatingExtensionMethods.cs",
+              "RelativeToolTip": "11_BasicsOfOOP\\CreatingExtensionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T04:30:15.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AbbreviatedSyntax.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\AbbreviatedSyntax.cs",
+              "RelativeDocumentMoniker": "11_BasicsOfOOP\\AbbreviatedSyntax.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\AbbreviatedSyntax.cs",
+              "RelativeToolTip": "11_BasicsOfOOP\\AbbreviatedSyntax.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T10:46:26.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreatingClasses.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\CreatingClasses.cs",
+              "RelativeDocumentMoniker": "11_BasicsOfOOP\\CreatingClasses.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\11_BasicsOfOOP\\CreatingClasses.cs",
+              "RelativeToolTip": "11_BasicsOfOOP\\CreatingClasses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T09:48:39.725Z"
             }
           ]
         }
