@@ -2,11 +2,6 @@
 
 namespace UlearnCourse.BasicsOfOOP
 {
-    internal class RefactoringOfStaticClass
-    {
-
-    }
-
     public class SuperBeautyImageFilter
     {
         public string ImageName;

@@ -1,10 +1,5 @@
 ﻿namespace UlearnCourse.BasicsOfOOP
 {
-    internal class CreatingExtensionMethods
-    {
-
-    }
-
     public static class StringExtensions
     {
         public static int ToInt(this string str)

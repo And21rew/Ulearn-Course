@@ -1,10 +1,5 @@
 ﻿namespace UlearnCourse.BasicsOfOOP
 {
-    internal class AbbreviatedSyntax
-    {
-
-    }
-
     public class MenuItem
     {
         public string Caption;
