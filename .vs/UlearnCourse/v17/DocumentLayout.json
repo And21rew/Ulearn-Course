@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "V:\\GitHub\\Ulearn-Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\13_dataintegrity\\indexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:13_dataintegrity\\indexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\14_structures\\experimentstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:14_structures\\experimentstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\13_dataintegrity\\accountingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:13_dataintegrity\\accountingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\14_structures\\benchmarktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:14_structures\\benchmarktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\13_dataintegrity\\readonlyvectortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:13_dataintegrity\\readonlyvectortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\13_dataintegrity\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:13_dataintegrity\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\13_dataintegrity\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:13_dataintegrity\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\13_dataintegrity\\propertyinsteadoffield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:13_dataintegrity\\propertyinsteadoffield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\13_dataintegrity\\dontputoffmakingmistakes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:13_dataintegrity\\dontputoffmakingmistakes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\14_structures\\applicationofref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:14_structures\\applicationofref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,89 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Indexer.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\13_DataIntegrity\\Indexer.cs",
-              "RelativeDocumentMoniker": "13_DataIntegrity\\Indexer.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\13_DataIntegrity\\Indexer.cs",
-              "RelativeToolTip": "13_DataIntegrity\\Indexer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Title": "ExperimentsTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\14_Structures\\ExperimentsTask.cs",
+              "RelativeDocumentMoniker": "14_Structures\\ExperimentsTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\14_Structures\\ExperimentsTask.cs",
+              "RelativeToolTip": "14_Structures\\ExperimentsTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T06:22:14.289Z",
+              "WhenOpened": "2026-08-11T06:21:57.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AccountingModel.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\13_DataIntegrity\\AccountingModel.cs",
-              "RelativeDocumentMoniker": "13_DataIntegrity\\AccountingModel.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\13_DataIntegrity\\AccountingModel.cs",
-              "RelativeToolTip": "13_DataIntegrity\\AccountingModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAFAAAAAAAAAA==",
+              "Title": "BenchmarkTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\14_Structures\\BenchmarkTask.cs",
+              "RelativeDocumentMoniker": "14_Structures\\BenchmarkTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\14_Structures\\BenchmarkTask.cs",
+              "RelativeToolTip": "14_Structures\\BenchmarkTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T06:21:00.925Z",
+              "WhenOpened": "2026-08-11T06:21:32.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ReadonlyVectorTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\13_DataIntegrity\\ReadonlyVectorTask.cs",
-              "RelativeDocumentMoniker": "13_DataIntegrity\\ReadonlyVectorTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\13_DataIntegrity\\ReadonlyVectorTask.cs",
-              "RelativeToolTip": "13_DataIntegrity\\ReadonlyVectorTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "ApplicationOfRef.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\14_Structures\\ApplicationOfRef.cs",
+              "RelativeDocumentMoniker": "14_Structures\\ApplicationOfRef.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\14_Structures\\ApplicationOfRef.cs",
+              "RelativeToolTip": "14_Structures\\ApplicationOfRef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T06:14:43.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Fraction.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\13_DataIntegrity\\Fraction.cs",
-              "RelativeDocumentMoniker": "13_DataIntegrity\\Fraction.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\13_DataIntegrity\\Fraction.cs",
-              "RelativeToolTip": "13_DataIntegrity\\Fraction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T06:03:41.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Vector.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\13_DataIntegrity\\Vector.cs",
-              "RelativeDocumentMoniker": "13_DataIntegrity\\Vector.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\13_DataIntegrity\\Vector.cs",
-              "RelativeToolTip": "13_DataIntegrity\\Vector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T05:24:21.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PropertyInsteadOfField.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\13_DataIntegrity\\PropertyInsteadOfField.cs",
-              "RelativeDocumentMoniker": "13_DataIntegrity\\PropertyInsteadOfField.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\13_DataIntegrity\\PropertyInsteadOfField.cs",
-              "RelativeToolTip": "13_DataIntegrity\\PropertyInsteadOfField.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T05:11:43.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DontPutOffMakingMistakes.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\13_DataIntegrity\\DontPutOffMakingMistakes.cs",
-              "RelativeDocumentMoniker": "13_DataIntegrity\\DontPutOffMakingMistakes.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\13_DataIntegrity\\DontPutOffMakingMistakes.cs",
-              "RelativeToolTip": "13_DataIntegrity\\DontPutOffMakingMistakes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T04:26:47.041Z"
+              "WhenOpened": "2026-08-10T10:27:14.797Z"
             }
           ]
         }
