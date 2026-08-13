@@ -1,0 +1,16 @@
+﻿namespace UlearnCourse.FundamentalsOfProgrammingPart1.Arrays
+{
+    internal class Counting
+    {
+        public static int GetElementCount(int[] items, int itemToCount)
+        {
+            var count = 0;
+
+            foreach (var item in items)
+                if (item == itemToCount)
+                    count++;
+
+            return count;
+        }
+    }
+}

@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Engineering\" />
+    <Folder Include="FundamentalsOfProgrammingPart2\1_YieldReturn\" />
+  </ItemGroup>
+
 </Project>
