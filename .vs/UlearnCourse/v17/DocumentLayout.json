@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "V:\\GitHub\\Ulearn-Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\1_yieldreturn\\movingmaxtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\1_yieldreturn\\movingmaxtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\2_listsanddictionaries\\ghoststask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\2_listsanddictionaries\\ghoststask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\1_yieldreturn\\movingaveragetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\1_yieldreturn\\movingaveragetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\1_yieldreturn\\expsmoothingtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\1_yieldreturn\\expsmoothingtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\1_yieldreturn\\zipsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\1_yieldreturn\\zipsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\1_yieldreturn\\sequencegeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\1_yieldreturn\\sequencegeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\2_listsanddictionaries\\readonlybytestask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\2_listsanddictionaries\\readonlybytestask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,65 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MovingMaxTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\1_YieldReturn\\MovingMaxTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\1_YieldReturn\\MovingMaxTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\1_YieldReturn\\MovingMaxTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\1_YieldReturn\\MovingMaxTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Title": "GhostsTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\2_ListsAndDictionaries\\GhostsTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\2_ListsAndDictionaries\\GhostsTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\2_ListsAndDictionaries\\GhostsTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\2_ListsAndDictionaries\\GhostsTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-14T04:23:57.982Z",
+              "WhenOpened": "2026-08-14T09:28:12.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MovingAverageTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\1_YieldReturn\\MovingAverageTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\1_YieldReturn\\MovingAverageTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\1_YieldReturn\\MovingAverageTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\1_YieldReturn\\MovingAverageTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Title": "ReadonlyBytesTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\2_ListsAndDictionaries\\ReadonlyBytesTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\2_ListsAndDictionaries\\ReadonlyBytesTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\2_ListsAndDictionaries\\ReadonlyBytesTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\2_ListsAndDictionaries\\ReadonlyBytesTask.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-14T04:23:47.894Z",
+              "WhenOpened": "2026-08-14T09:28:05.492Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExpSmoothingTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\1_YieldReturn\\ExpSmoothingTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\1_YieldReturn\\ExpSmoothingTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\1_YieldReturn\\ExpSmoothingTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\1_YieldReturn\\ExpSmoothingTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-14T04:23:39.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ZipSum.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\1_YieldReturn\\ZipSum.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\1_YieldReturn\\ZipSum.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\1_YieldReturn\\ZipSum.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\1_YieldReturn\\ZipSum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-14T04:04:38.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SequenceGeneration.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\1_YieldReturn\\SequenceGeneration.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\1_YieldReturn\\SequenceGeneration.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\1_YieldReturn\\SequenceGeneration.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\1_YieldReturn\\SequenceGeneration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-14T04:00:55.886Z"
             }
           ]
         }

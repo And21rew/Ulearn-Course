@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <Folder Include="Engineering\" />
-    <Folder Include="FundamentalsOfProgrammingPart2\2_ListsAndDictionaries\" />
+    <Folder Include="FundamentalsOfProgrammingPart2\3_Delegates\" />
   </ItemGroup>
 
 </Project>
