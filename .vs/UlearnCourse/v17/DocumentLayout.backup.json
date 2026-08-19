@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "V:\\GitHub\\Ulearn-Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\3_delegates\\brainfuckloopcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\3_delegates\\brainfuckloopcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\forcestask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\forcestask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\3_delegates\\brainfuckbasiccommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\3_delegates\\brainfuckbasiccommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\levelstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\levelstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\3_delegates\\virtualmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\3_delegates\\virtualmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\controltask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\controltask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\3_delegates\\lambdasyntax2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\3_delegates\\lambdasyntax2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\implementationoftakemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\implementationoftakemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\3_delegates\\lambdasyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\3_delegates\\lambdasyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\3_delegates\\delegatessyntax2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\3_delegates\\delegatessyntax2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\3_delegates\\delegatessyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\3_delegates\\delegatessyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\implementationoffirstordefaultmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\implementationoffirstordefaultmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,94 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BrainfuckLoopCommands.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\3_Delegates\\BrainfuckLoopCommands.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\3_Delegates\\BrainfuckLoopCommands.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\3_Delegates\\BrainfuckLoopCommands.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\3_Delegates\\BrainfuckLoopCommands.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ControlTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ControlTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ControlTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ControlTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ControlTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T07:39:07.526Z",
+              "WhenOpened": "2026-08-19T07:16:39.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BrainfuckBasicCommands.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\3_Delegates\\BrainfuckBasicCommands.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\3_Delegates\\BrainfuckBasicCommands.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\3_Delegates\\BrainfuckBasicCommands.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\3_Delegates\\BrainfuckBasicCommands.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Title": "LevelsTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\LevelsTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\LevelsTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\LevelsTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\LevelsTask.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwFwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T07:38:48.134Z",
+              "WhenOpened": "2026-08-19T07:16:20.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VirtualMachine.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\3_Delegates\\VirtualMachine.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\3_Delegates\\VirtualMachine.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\3_Delegates\\VirtualMachine.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\3_Delegates\\VirtualMachine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ForcesTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ForcesTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ForcesTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ForcesTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ForcesTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T07:38:24.515Z",
+              "WhenOpened": "2026-08-19T07:15:54.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LambdaSyntax2.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\3_Delegates\\LambdaSyntax2.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\3_Delegates\\LambdaSyntax2.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\3_Delegates\\LambdaSyntax2.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\3_Delegates\\LambdaSyntax2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Title": "ImplementationOfTakeMethod.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfTakeMethod.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfTakeMethod.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfTakeMethod.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfTakeMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T06:52:56.339Z"
+              "WhenOpened": "2026-08-18T08:05:08.117Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LambdaSyntax.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\3_Delegates\\LambdaSyntax.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\3_Delegates\\LambdaSyntax.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\3_Delegates\\LambdaSyntax.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\3_Delegates\\LambdaSyntax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ImplementationOfFirstOrDefaultMethod.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfFirstOrDefaultMethod.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfFirstOrDefaultMethod.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfFirstOrDefaultMethod.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfFirstOrDefaultMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T06:52:45.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DelegatesSyntax2.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\3_Delegates\\DelegatesSyntax2.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\3_Delegates\\DelegatesSyntax2.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\3_Delegates\\DelegatesSyntax2.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\3_Delegates\\DelegatesSyntax2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T04:22:40.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DelegatesSyntax.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\3_Delegates\\DelegatesSyntax.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\3_Delegates\\DelegatesSyntax.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\3_Delegates\\DelegatesSyntax.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\3_Delegates\\DelegatesSyntax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-17T04:00:27.468Z"
+              "WhenOpened": "2026-08-18T07:54:33.754Z"
             }
           ]
         }

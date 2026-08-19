@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <Folder Include="Engineering\" />
-    <Folder Include="FundamentalsOfProgrammingPart2\4_ElementsOfFunctionalProgramming\" />
+    <Folder Include="FundamentalsOfProgrammingPart2\5_LINQ\" />
   </ItemGroup>
 
   <ItemGroup>
