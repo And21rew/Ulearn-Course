@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "V:\\GitHub\\Ulearn-Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\forcestask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\forcestask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\5_linq\\solvertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\5_linq\\solvertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\levelstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\levelstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\5_linq\\statisticstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\5_linq\\statisticstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\controltask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\controltask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\5_linq\\parsingtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\5_linq\\parsingtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\implementationoftakemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\implementationoftakemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\implementationoffirstordefaultmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\4_elementsoffunctionalprogramming\\implementationoffirstordefaultmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\5_linq\\extensionstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\5_linq\\extensionstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ControlTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ControlTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ControlTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ControlTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ControlTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SolverTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\5_LINQ\\SolverTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\5_LINQ\\SolverTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\5_LINQ\\SolverTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\5_LINQ\\SolverTask.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAswJMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T07:16:39.27Z",
+              "WhenOpened": "2026-08-20T09:02:37.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LevelsTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\LevelsTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\LevelsTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\LevelsTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\LevelsTask.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAiwFwAAAAFAAAAAAAAAA==",
+              "Title": "StatisticsTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\5_LINQ\\StatisticsTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\5_LINQ\\StatisticsTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\5_LINQ\\StatisticsTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\5_LINQ\\StatisticsTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T07:16:20.069Z",
+              "WhenOpened": "2026-08-20T09:01:59.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ForcesTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ForcesTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ForcesTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ForcesTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ForcesTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ParsingTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\5_LINQ\\ParsingTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\5_LINQ\\ParsingTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\5_LINQ\\ParsingTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\5_LINQ\\ParsingTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T07:15:54.537Z",
+              "WhenOpened": "2026-08-20T09:01:46.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ImplementationOfTakeMethod.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfTakeMethod.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfTakeMethod.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfTakeMethod.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfTakeMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Title": "ExtensionsTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\5_LINQ\\ExtensionsTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\5_LINQ\\ExtensionsTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\5_LINQ\\ExtensionsTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\5_LINQ\\ExtensionsTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T08:05:08.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ImplementationOfFirstOrDefaultMethod.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfFirstOrDefaultMethod.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfFirstOrDefaultMethod.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfFirstOrDefaultMethod.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\4_ElementsOfFunctionalProgramming\\ImplementationOfFirstOrDefaultMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T07:54:33.754Z"
+              "WhenOpened": "2026-08-20T09:01:34.732Z",
+              "EditorCaption": ""
             }
           ]
         }
