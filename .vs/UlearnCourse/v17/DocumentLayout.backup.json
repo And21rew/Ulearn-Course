@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "V:\\GitHub\\Ulearn-Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\6_graphsandtraversals\\rivalstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\6_graphsandtraversals\\rivalstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\7_greedyalgorithms\\dijkstrapathfindertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\7_greedyalgorithms\\dijkstrapathfindertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\6_graphsandtraversals\\dungeontask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\6_graphsandtraversals\\dungeontask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\7_greedyalgorithms\\greedypathfindertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\7_greedyalgorithms\\greedypathfindertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\6_graphsandtraversals\\bfstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\6_graphsandtraversals\\bfstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\7_greedyalgorithms\\notgreedypathfindertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\7_greedyalgorithms\\notgreedypathfindertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\6_graphsandtraversals\\findingcycleinundirectedgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\6_graphsandtraversals\\findingcycleinundirectedgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\7_greedyalgorithms\\implementationofkruskalalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\7_greedyalgorithms\\implementationofkruskalalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\7_greedyalgorithms\\schedulerimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\7_greedyalgorithms\\schedulerimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RivalsTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\RivalsTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\RivalsTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\RivalsTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\RivalsTask.cs",
+              "DocumentIndex": 2,
+              "Title": "NotGreedyPathFinderTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\NotGreedyPathFinderTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\NotGreedyPathFinderTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\NotGreedyPathFinderTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\NotGreedyPathFinderTask.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-24T12:20:51.843Z",
+              "WhenOpened": "2026-08-26T08:56:25.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DungeonTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\DungeonTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\DungeonTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\DungeonTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\DungeonTask.cs",
+              "Title": "GreedyPathFinderTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\GreedyPathFinderTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\GreedyPathFinderTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\GreedyPathFinderTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\GreedyPathFinderTask.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-24T12:20:37.8Z",
+              "WhenOpened": "2026-08-26T08:56:11.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BfsTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\BfsTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\BfsTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\BfsTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\BfsTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DijkstraPathFinderTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\DijkstraPathFinderTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\DijkstraPathFinderTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\DijkstraPathFinderTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\DijkstraPathFinderTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-24T12:20:21.737Z",
+              "WhenOpened": "2026-08-26T08:55:57.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FindingCycleInUndirectedGraph.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\FindingCycleInUndirectedGraph.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\FindingCycleInUndirectedGraph.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\FindingCycleInUndirectedGraph.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\6_GraphsAndTraversals\\FindingCycleInUndirectedGraph.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "ImplementationOfKruskalAlgorithm.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\ImplementationOfKruskalAlgorithm.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\ImplementationOfKruskalAlgorithm.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\ImplementationOfKruskalAlgorithm.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\ImplementationOfKruskalAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-24T12:16:07.374Z"
+              "WhenOpened": "2026-08-26T06:01:12.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchedulerImplementation.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\SchedulerImplementation.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\SchedulerImplementation.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\SchedulerImplementation.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\7_GreedyAlgorithms\\SchedulerImplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T04:22:13.246Z"
             }
           ]
         }

@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Folder Include="Engineering\" />
-    <Folder Include="FundamentalsOfProgrammingPart2\7_GreedyAlgorithms\" />
     <Folder Include="FundamentalsOfProgrammingPart2\8_MultithreadedProgramming\" />
     <Folder Include="FundamentalsOfProgrammingPart2\9_DynamicProgramming\" />
     <Folder Include="FundamentalsOfProgrammingPart2\10_DataStructures\" />
