@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Folder Include="Engineering\" />
-    <Folder Include="FundamentalsOfProgrammingPart2\9_DynamicProgramming\" />
     <Folder Include="FundamentalsOfProgrammingPart2\10_DataStructures\" />
     <Folder Include="FundamentalsOfProgrammingPart2\11_ReflectionOfTypes\" />
   </ItemGroup>
