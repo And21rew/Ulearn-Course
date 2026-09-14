@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-
-namespace UlearnCourse.FundamentalsOfProgrammingPart1.BasicsOfOOP
+﻿namespace UlearnCourse.FundamentalsOfProgrammingPart1.BasicsOfOOP
 {
     public class City()
     {

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "V:\\GitHub\\Ulearn-Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\9_dynamicprogramming\\ticketstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\9_dynamicprogramming\\ticketstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\10_datastructures\\addandcontainstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\10_datastructures\\addandcontainstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\9_dynamicprogramming\\longestcommonsubsequencecalculatortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\9_dynamicprogramming\\longestcommonsubsequencecalculatortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\10_datastructures\\enumerableandindexertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\10_datastructures\\enumerableandindexertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\9_dynamicprogramming\\levenshteincalculatortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\9_dynamicprogramming\\levenshteincalculatortask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\10_datastructures\\disktreetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\10_datastructures\\disktreetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TicketsTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\9_DynamicProgramming\\TicketsTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\9_DynamicProgramming\\TicketsTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\9_DynamicProgramming\\TicketsTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\9_DynamicProgramming\\TicketsTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "DiskTreeTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\10_DataStructures\\DiskTreeTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\10_DataStructures\\DiskTreeTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\10_DataStructures\\DiskTreeTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\10_DataStructures\\DiskTreeTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T14:34:59.901Z",
+              "WhenOpened": "2026-09-10T06:17:05.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LongestCommonSubsequenceCalculatorTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\9_DynamicProgramming\\LongestCommonSubsequenceCalculatorTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\9_DynamicProgramming\\LongestCommonSubsequenceCalculatorTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\9_DynamicProgramming\\LongestCommonSubsequenceCalculatorTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\9_DynamicProgramming\\LongestCommonSubsequenceCalculatorTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Title": "EnumerableAndIndexerTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\10_DataStructures\\EnumerableAndIndexerTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\10_DataStructures\\EnumerableAndIndexerTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\10_DataStructures\\EnumerableAndIndexerTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\10_DataStructures\\EnumerableAndIndexerTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T14:34:14.256Z",
+              "WhenOpened": "2026-09-10T06:19:15.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LevenshteinCalculatorTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\9_DynamicProgramming\\LevenshteinCalculatorTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\9_DynamicProgramming\\LevenshteinCalculatorTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\9_DynamicProgramming\\LevenshteinCalculatorTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\9_DynamicProgramming\\LevenshteinCalculatorTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AddAndContainsTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\10_DataStructures\\AddAndContainsTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\10_DataStructures\\AddAndContainsTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\10_DataStructures\\AddAndContainsTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\10_DataStructures\\AddAndContainsTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T14:33:50.247Z",
+              "WhenOpened": "2026-09-10T06:18:46.07Z",
               "EditorCaption": ""
             }
           ]
