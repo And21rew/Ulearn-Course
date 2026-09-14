@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "V:\\GitHub\\Ulearn-Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\10_datastructures\\addandcontainstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\10_datastructures\\addandcontainstask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\10_datastructures\\enumerableandindexertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\10_datastructures\\enumerableandindexertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\10_datastructures\\disktreetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\10_datastructures\\disktreetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\11_reflectionoftypes\\specifiertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\11_reflectionoftypes\\specifiertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DiskTreeTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\10_DataStructures\\DiskTreeTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\10_DataStructures\\DiskTreeTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\10_DataStructures\\DiskTreeTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\10_DataStructures\\DiskTreeTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T06:17:05.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnumerableAndIndexerTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\10_DataStructures\\EnumerableAndIndexerTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\10_DataStructures\\EnumerableAndIndexerTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\10_DataStructures\\EnumerableAndIndexerTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\10_DataStructures\\EnumerableAndIndexerTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T06:19:15.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddAndContainsTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\10_DataStructures\\AddAndContainsTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\10_DataStructures\\AddAndContainsTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\10_DataStructures\\AddAndContainsTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\10_DataStructures\\AddAndContainsTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
+              "Title": "SpecifierTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\11_ReflectionOfTypes\\SpecifierTask.cs",
+              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\11_ReflectionOfTypes\\SpecifierTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\11_ReflectionOfTypes\\SpecifierTask.cs",
+              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\11_ReflectionOfTypes\\SpecifierTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T06:18:46.07Z",
+              "WhenOpened": "2026-09-14T06:57:41.55Z",
               "EditorCaption": ""
             }
           ]
