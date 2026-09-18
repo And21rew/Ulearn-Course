@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "V:\\GitHub\\Ulearn-Course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\fundamentalsofprogrammingpart2\\11_reflectionoftypes\\specifiertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:fundamentalsofprogrammingpart2\\11_reflectionoftypes\\specifiertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\engineering\\1_encapsulationexample\\rationaltask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:engineering\\1_encapsulationexample\\rationaltask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\engineering\\1_encapsulationexample\\indexertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:engineering\\1_encapsulationexample\\indexertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\engineering\\1_encapsulationexample\\enterprisetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:engineering\\1_encapsulationexample\\enterprisetask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|v:\\github\\ulearn-course\\engineering\\1_encapsulationexample\\reportmakertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B720BE0A-9985-4578-AFF6-C286508D4949}|UlearnCourse.csproj|solutionrelative:engineering\\1_encapsulationexample\\reportmakertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SpecifierTask.cs",
-              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\11_ReflectionOfTypes\\SpecifierTask.cs",
-              "RelativeDocumentMoniker": "FundamentalsOfProgrammingPart2\\11_ReflectionOfTypes\\SpecifierTask.cs",
-              "ToolTip": "V:\\GitHub\\Ulearn-Course\\FundamentalsOfProgrammingPart2\\11_ReflectionOfTypes\\SpecifierTask.cs",
-              "RelativeToolTip": "FundamentalsOfProgrammingPart2\\11_ReflectionOfTypes\\SpecifierTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "RationalTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\Engineering\\1_EncapsulationExample\\RationalTask.cs",
+              "RelativeDocumentMoniker": "Engineering\\1_EncapsulationExample\\RationalTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\Engineering\\1_EncapsulationExample\\RationalTask.cs",
+              "RelativeToolTip": "Engineering\\1_EncapsulationExample\\RationalTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T06:57:41.55Z",
+              "WhenOpened": "2026-09-18T04:49:35.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexerTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\Engineering\\1_EncapsulationExample\\IndexerTask.cs",
+              "RelativeDocumentMoniker": "Engineering\\1_EncapsulationExample\\IndexerTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\Engineering\\1_EncapsulationExample\\IndexerTask.cs",
+              "RelativeToolTip": "Engineering\\1_EncapsulationExample\\IndexerTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T04:49:25.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnterpriseTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\Engineering\\1_EncapsulationExample\\EnterpriseTask.cs",
+              "RelativeDocumentMoniker": "Engineering\\1_EncapsulationExample\\EnterpriseTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\Engineering\\1_EncapsulationExample\\EnterpriseTask.cs",
+              "RelativeToolTip": "Engineering\\1_EncapsulationExample\\EnterpriseTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T04:49:11.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportMakerTask.cs",
+              "DocumentMoniker": "V:\\GitHub\\Ulearn-Course\\Engineering\\1_EncapsulationExample\\ReportMakerTask.cs",
+              "RelativeDocumentMoniker": "Engineering\\1_EncapsulationExample\\ReportMakerTask.cs",
+              "ToolTip": "V:\\GitHub\\Ulearn-Course\\Engineering\\1_EncapsulationExample\\ReportMakerTask.cs",
+              "RelativeToolTip": "Engineering\\1_EncapsulationExample\\ReportMakerTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T04:47:31.502Z",
               "EditorCaption": ""
             }
           ]
